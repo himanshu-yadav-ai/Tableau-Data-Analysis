@@ -1,5 +1,6 @@
 # Tableau-Projects
-The projects here are based on data analytics.
+
+The Projects are based on Data Analytics.
 
 Skills Required : Data Cleaning, Data Anlaysing 
 
