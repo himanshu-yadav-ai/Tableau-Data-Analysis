@@ -1,4 +1,4 @@
-## CAUTION: Project can be viewed in pdf file (Superstore Loss Analysis.pdf), if you DON'T have tableau installed you else open twbx file (Superstore Loss Analysis.twbx) 
+#### CAUTION: Project can be viewed in pdf file (Superstore Loss Analysis.pdf), if you DON'T have tableau installed you else open twbx file (Superstore Loss Analysis.twbx) 
  
 # Tableau-Projects
 
